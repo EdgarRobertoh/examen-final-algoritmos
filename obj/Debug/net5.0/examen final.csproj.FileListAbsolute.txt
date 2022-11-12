@@ -1,0 +1,5 @@
+C:\Users\Edgar Herrera\Downloads\U\examen final\obj\Debug\net5.0\examen final.csproj.AssemblyReference.cache
+C:\Users\Edgar Herrera\Downloads\U\examen final\obj\Debug\net5.0\examen final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Herrera\Downloads\U\examen final\obj\Debug\net5.0\examen final.AssemblyInfoInputs.cache
+C:\Users\Edgar Herrera\Downloads\U\examen final\obj\Debug\net5.0\examen final.AssemblyInfo.cs
+C:\Users\Edgar Herrera\Downloads\U\examen final\obj\Debug\net5.0\examen final.csproj.CoreCompileInputs.cache
